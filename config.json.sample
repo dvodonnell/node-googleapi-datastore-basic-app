@@ -1,0 +1,9 @@
+{
+  "projectId" : "my-project-id-123",
+  "paths" : {
+    "credentials" : "my-project-credentials.json"
+  },
+  "server" : {
+    "port" : 3000
+  }
+}
